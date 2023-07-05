@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
+  title: 'My Blog',
+  author: 'Akhmad Fauzi',
+  headerTitle: 'My Blog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
+  email: 'akhmadfauzi9797@gmail.com',
+  github: 'https://github.com/A-fauzi',
+  twitter: 'https://twitter.com/ziaxyzkt?t=D5uH3pK7WFUfUZh61liBBw&s=09',
+  facebook: 'https://www.facebook.com/akhmad.fauzi.794?mibextid=ZbWKwL',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/afauzi97',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
