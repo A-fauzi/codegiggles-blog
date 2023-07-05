@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'akhmadfauzi9797@gmail.com',
   github: 'https://github.com/A-fauzi',
-  twitter: 'https://twitter.com/ziaxyzkt?t=D5uH3pK7WFUfUZh61liBBw&s=09',
+  twitter: 'https://twitter.com/ziaxyzkt',
   facebook: 'https://www.facebook.com/akhmad.fauzi.794?mibextid=ZbWKwL',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/afauzi97',

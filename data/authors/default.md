@@ -4,7 +4,7 @@ avatar: /static/images/avatar.png
 occupation: Android Dev Freelancer
 company: Not Company (Jobless)
 email: akhmadfauzi9797@gmail.com
-twitter: https://twitter.com/ziaxyzkt?t=D5uH3pK7WFUfUZh61liBBw&s=09
+twitter: https://twitter.com/ziaxyzkt
 linkedin: https://www.linkedin.com/in/afauzi97
 github: https://github.com/A-fauzi
 ---
