@@ -9,8 +9,12 @@ linkedin: https://www.linkedin.com/in/afauzi97
 github: https://github.com/A-fauzi
 ---
 
-Akhmad Fauzi is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hello, nice to meet you! My name is Akhmad Fauzi. I am a Junior Android Developer with a background in automotive engineering. I made an exciting career switch to the world of Android development. I have a strong passion and dedication to creating innovative and useful mobile applications.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Over the past few years, I have embarked on an intensive learning journey to expand my knowledge and skills in Android development. I have a solid understanding of programming languages such as Kotlin, as well as the Android Studio framework. I also have experience integrating APIs and optimizing app performance to deliver the best user experience.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As a Junior Android Developer, I believe that strong teamwork and effective communication are key to project success. I enjoy working in a team comprised of diverse individuals who are committed to achieving common goals. I constantly strive to learn and adapt to the latest advancements in mobile technology in order to deliver innovative and relevant solutions.
+
+I am incredibly enthusiastic about contributing to projects that allow me to combine my technical knowledge with my passion for Android development. I am confident that with dedication, hard work, and unwavering determination, I will continue to grow and become a proficient Android Developer.
+
+Thank you for taking the time to read my brief profile. I am eagerly looking forward to the opportunity to contribute to the development of innovative applications that make a positive impact on users.
