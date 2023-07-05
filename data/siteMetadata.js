@@ -5,8 +5,8 @@ const siteMetadata = {
   description: 'My Personal Blog with Codegiggles',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://codegiggles-blog.vercel.app/',
+  siteRepo: 'https://github.com/A-fauzi/codegiggles-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
