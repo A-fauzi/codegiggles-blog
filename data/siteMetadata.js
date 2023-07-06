@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'Akhmad Fauzi',
   headerTitle: 'Codegiggles Blog',
   description: 'My Personal Blog with Codegiggles',
-  language: 'id',
+  language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://codegiggles-blog.vercel.app/',
   siteRepo: 'https://github.com/A-fauzi/codegiggles-blog',
@@ -16,7 +16,7 @@ const siteMetadata = {
   facebook: 'https://www.facebook.com/akhmad.fauzi.794?mibextid=ZbWKwL',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/afauzi97',
-  locale: 'id',
+  locale: 'en-us',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
