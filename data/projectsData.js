@@ -5,6 +5,18 @@ const projectsData = [
     imgSrc: '/static/images/project/zimovieapp.png',
     href: 'https://github.com/A-fauzi/ZiMovieApp',
   },
+  {
+    title: 'InvenTrick System',
+    description: `Comming Soon.`,
+    imgSrc: '/static/images/project/itservice.png',
+    href: '#',
+  },
+  {
+    title: 'InvenTrick Mobile',
+    description: `Comming Soon.`,
+    imgSrc: '/static/images/project/itmobile.png',
+    href: '#',
+  },
 ]
 
 export default projectsData
