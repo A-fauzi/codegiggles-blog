@@ -32,6 +32,7 @@ module.exports = {
         gray: colors.neutral,
         zi: {
           dark: '#081B33',
+          dark800: '#152642',
         },
       },
       typography: (theme) => ({

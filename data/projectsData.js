@@ -1,9 +1,9 @@
 const projectsData = [
   {
-    title: 'Commin Soon',
-    description: `There are currently no projects that can be displayed, but at a later time we will try to display them!`,
-    imgSrc: '/static/images/project/commingsoon.jpeg',
-    href: 'projects/example-project',
+    title: 'ZiMovieApp',
+    description: `Proyek ini adalah sebuah aplikasi yang menggunakan sampel api moviedb, arsitektur MVVM, teknologi Paging 3 dan Firebase Authentication.`,
+    imgSrc: '/static/images/project/zimovieapp.png',
+    href: 'https://github.com/A-fauzi/ZiMovieApp',
   },
 ]
 
