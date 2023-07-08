@@ -13,9 +13,9 @@ const projectsData = [
   },
   {
     title: 'InvenTrick Mobile',
-    description: `Comming Soon.`,
+    description: `InvenTrick is a web application built using Node.js, MongoDB, and JWT for authentication. The backend utilizes the Express.js framework and is hosted on Mongo Atlas cloud platform.`,
     imgSrc: '/static/images/project/itmobile.png',
-    href: '#',
+    href: 'https://github.com/A-fauzi/InvenTrick-Service',
   },
 ]
 
