@@ -7,9 +7,9 @@ const projectsData = [
   },
   {
     title: 'InvenTrick Mobile',
-    description: `Comming Soon.`,
+    description: `The app is developed using Kotlin and integrated with the backend API InvenTrick Service . The development environment used is Android Studio, and the architecture follows the MVP (Model-View-Presenter) pattern.`,
     imgSrc: '/static/images/project/itmobile.png',
-    href: '#',
+    href: 'https://github.com/A-fauzi/InvenTrick-Mobile-App',
   },
   {
     title: 'InvenTrick Service',
